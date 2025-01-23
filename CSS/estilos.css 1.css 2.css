@@ -1,0 +1,17 @@
+h1{/*Se aplica estilo al encabezado h1*/
+    color:blue; /*Se cambia el color de la letra a azul*/
+}
+h2{/*Se aplica estilo al encabezado h2*/
+    fontsize: 24px;/*Se cambia el tamaño de la letra*/
+}
+h3{/*Se aplica estilo al encabezado h3*/
+    margin-bottom: 10px /*Se cambia el tamaño del encabezado*/
+}
+p{/*Se aplica un parráfo*/
+    background-color: aquamarine; /*Se aplica color al fondo*/
+    color:darkgreen;/*Se cambia el color del fondo*/
+}
+a{/*Se aplica un enlace*/
+    text-decoration: none;color: blueviolet; /*Se aplica el color al enlace*/
+    color:blueviolet;/*Se aplica un color blueviolet al texto del enlace*/
+}
